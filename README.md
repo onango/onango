@@ -1,4 +1,4 @@
-![Python application](https://github.com/onango/onango/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+![Antony O.](https://github.com/onango/onango/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
 ```python
 class AntonyO:
@@ -25,6 +25,4 @@ if __name__ == '__main__':
     me = AntonyO()
 
 <!---
-onango/onango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Antony O ✨ 
